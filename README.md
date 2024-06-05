@@ -5,11 +5,13 @@
 
 ## Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
-<code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
+<code><img height="20" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
+<code><img height="20" src="https://icon.icepanel.io/Technology/svg/Redux.svg"/></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/128/4315/4315005.png"></code>
 
 ![](https://komarev.com/ghpvc/?username=harsh-b14&color=blue)
 
