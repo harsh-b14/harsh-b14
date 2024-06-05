@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there, I'm [Harsh!](https://github.com/harsh-b14/) 👋
 
-<!--
-**harsh-b14/harsh-b14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 Let's connect to build!
+- 💬 Reach out to me [here](mailto:hbhanderi148@gmail.com).
 
-Here are some ideas to get you started:
+## Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
+<code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4"></code>
+
+![](https://komarev.com/ghpvc/?username=harsh-b14&color=blue)
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh-b14&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=161b22)
